@@ -1,12 +1,4 @@
 /***************************************************************
-CSCI 240         Program 6    Spring 2022
-
-Programmer: Juviny Noriega
-
-Section: 002
-
-Date Due: 3/20/22
-
 Purpose: The pruose of this program is the demostrate the proper use fo functions 
 by creating a program which uses a variety of functions that calculates,grades, grade points,
 and GPA
