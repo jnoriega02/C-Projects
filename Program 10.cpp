@@ -1,14 +1,4 @@
 /***************************************************************
-CSCI 240         Program 10    Spring 2022
-
-Programmer: Juviny Noriega
-
-Section: 002
-
-TA:VENKATI
-
-
-Date Due: 5/5/22
 
 Purpose: the purpose of this code is to For this assignment, modify 
 the Player class from Program 8. The modifications include making some 
