@@ -1,12 +1,4 @@
 /***************************************************************
-CSCI 240         Program 5    Spring 2022
-
-Programmer: Juviny Noriega
-
-Section: 002
-
-Date Due: 3/6/22
-
 Purpose: The purpose of this program is to create a 2 player game that succesfully subtracts 
 		 the number of chips player 1 or 2 chooses to take. The last player to take the last
 		 chips wins the game.
