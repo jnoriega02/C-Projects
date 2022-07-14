@@ -1,12 +1,4 @@
 /***************************************************************
-CSCI 240         Program 3    Spring 2022
-
-Programmer: Juviny Noriega
-
-Section: 002
-
-Date Due: 2/11/22
-
 Purpose: 
 The purpose of this program is to provide a multi-area calcultor that provides 
 a calculation for the area of the specific shapes:triangle,trapezoid,ellipse,and circle
