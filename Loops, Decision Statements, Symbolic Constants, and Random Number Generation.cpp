@@ -1,12 +1,4 @@
 /***************************************************************
-CSCI 240         Program 4    Spring 2022
-
-Programmer: Juviny Noriega
-
-Section: 002
-
-Date Due: 2/18/22
-
 Purpose: The purpose of this program is to construct a random number generator that will display
 numerous amount of random numbers based on a number (random) that determines the number of 
 numbers that will be produced
