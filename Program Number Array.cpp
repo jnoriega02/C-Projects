@@ -1,14 +1,4 @@
 /***************************************************************
-CSCI 240         Program 7    Spring 2022
-
-Programmer: Juviny Noriega
-
-Section: 002
-
-TA:TANVI
-
-
-Date Due: 4/8/22
 
 Purpose: The pruose of this program is succesfully demonstrate the use of arrays 
 by building two arrays based on random numbersand a text file that was 
