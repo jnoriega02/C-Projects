@@ -1,15 +1,4 @@
 /***************************************************************
-CSCI 240         Program 9   Spring 2022
-
-Programmer: Juviny Noriega
-
-Section: 002
-
-TA:FATEMAH
-
-
-Date Due: 4/30/22
-
 Purpose: The purpose of this program is to demonstrate the use of class both provate and public use usinf cuntiosn pertaining to 
 specificallly PARABOLAS. THE PROGRAM SUCESSFULY DEVLOPES THE USE OF FUNCTIONS AND DISPLAYS SPECIFICALLY THE USE OF REFERECNE WITHIN THE PRORGAM
 ***************************************************************/
